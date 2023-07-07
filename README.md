@@ -8,4 +8,7 @@ It calculates the cost based on the rental duration and applies different rates 
 The system accurately determines the amount to charge the customers for their bicycle rentals.
 
 Q.2 For detecting type of mushrooms
-
+The code is a mushroom type determination program. It asks the user a 
+series of questions about the characteristics of a mushroom, such as having gills, growing in the forest, 
+having a ring, and having a convex cup.Based on the user's responses,
+it determines and outputs the corresponding mushroom type.

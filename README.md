@@ -12,3 +12,10 @@ The code is a mushroom type determination program. It asks the user a
 series of questions about the characteristics of a mushroom, such as having gills, growing in the forest, 
 having a ring, and having a convex cup.Based on the user's responses,
 it determines and outputs the corresponding mushroom type.
+
+
+Groupmembers:                                    Reg nbr:
+ 
+ 1.Ndiramiye Ninshuti Poli -----------------------------> 222002045
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------
